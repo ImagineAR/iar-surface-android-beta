@@ -3,8 +3,8 @@
   <modelVersion>4.0.0</modelVersion>
     
   <groupId>com.iar</groupId>
-  <artifactId>iar-surface-android-beta</artifactId>
+  <artifactId>iar_surface_beta</artifactId>
   <version>1.5.4</version>
-  <name>iar-surface</name>
+  <name>iar-surface-beta</name>
   <url>http://maven.apache.org</url>
 </project>
