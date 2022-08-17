@@ -1,3 +1,3 @@
 install: 
   - FILE="-Dfile=iar_surface_beta.aar" 
-  - mvn install:install-file $FILE -DgroupId=com.iar.iar_surface_beta -DartifactId=iar_surface_beta -Dversion=1.6.0 -Dpackaging=aar -DgeneratePom=true
+  - mvn install:install-file $FILE -DgroupId=com.iar.iar_surface_beta -DartifactId=iar_surface_beta -Dversion=1.6.1 -Dpackaging=aar -DgeneratePom=true
